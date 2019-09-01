@@ -9,3 +9,5 @@ UPDATE: May 18, 2019 - Updated and added new versions to work with v035. I will 
 UPDATE: May 27, 2019 Added 2 new students, Linata (A friendlier Hinata) And Lioshi (A nicer Kioshi) Gave them both a different look so you can tell them apart. 
 
 UPDATE: July 13, 2019 Added new versions of these students to work with v0.37 and 0.39.
+
+UPDATE: August 31, 2019 Added new versions to work with v0.41
