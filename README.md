@@ -11,3 +11,5 @@ UPDATE: May 27, 2019 Added 2 new students, Linata (A friendlier Hinata) And Lios
 UPDATE: July 13, 2019 Added new versions of these students to work with v0.37 and 0.39.
 
 UPDATE: August 31, 2019 Added new versions to work with v0.41
+
+UPDATE: Septmber 14, 2019 Added 1 new student Meanata Satana (An slightly meaner goth style Hinata)
