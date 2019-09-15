@@ -1,6 +1,8 @@
 # Jonathan-s-Custom-Daigaku-Gurashi-Students
 
-Decided to just make my own little repository of the custom students I made.  File names will start with the version number they will work with.. For a whole lot more students, Please check out Arbiter1223's Repository that has way more students to try.
+Decided to just make my own little repository for the custom students I have made for the game.  While the file names will start with the version number they will work with. I will keep the files for the latest version (Currently v0.41) in the top level of this repository. If you have an older version of the game, please check out the subfolders above. 
+
+These are just a very few students I have made for the game. But there are a lot more elsewhere. I would reccomend checking out Arbiter1223's Repository. It is really a great collection. There are many students to choose from over there. I'm curious to see how my Hinata would get along with them. 
 
 https://github.com/Arbiter1223/Daigaku-Gurashi-Custom-Students
 
@@ -14,4 +16,4 @@ UPDATE: August 31, 2019 Added new versions to work with v0.41
 
 UPDATE: Septmber 14, 2019 Added 1 new student Meanata Satana (An slightly meaner goth style Hinata)
 
-UPDATE: September 15, 2019 Added 3 new students, Suzu Fumimori, Rhonda Flagg, and Freak Show. 
+UPDATE: September 15, 2019 Added 3 new students, Suzu Fumimori, Rhonda Flagg, and Freak Show.  Moved all the older versions to subfolders to reduce clutter on the main page. 
