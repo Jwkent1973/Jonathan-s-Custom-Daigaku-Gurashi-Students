@@ -2,7 +2,7 @@
 
 Decided to just make my own little repository for the custom students I have made for the game.  While the file names will start with the version number they will work with. I will keep the files for the latest version (Currently v0.41) in the top level of this repository. If you have an older version of the game, please check out the subfolders above. 
 
-These are just a very few students I have made for the game. But there are a lot more elsewhere. I would reccomend checking out Arbiter1223's Repository. It is really a great collection. There are many students to choose from over there. I'm curious to see how my Hinata would get along with them. 
+These are just a very few students I have made for the game. But there are a lot more elsewhere. I would recommend checking out Arbiter1223's Repository. It is really a great collection. There are many students to choose from over there. I'm curious to see how my Hinata would get along with them. 
 
 https://github.com/Arbiter1223/Daigaku-Gurashi-Custom-Students
 
