@@ -17,3 +17,5 @@ UPDATE: August 31, 2019 Added new versions to work with v0.41
 UPDATE: Septmber 14, 2019 Added 1 new student Meanata Satana (An slightly meaner goth style Hinata)
 
 UPDATE: September 15, 2019 Added 3 new students, Suzu Fumimori, Rhonda Flagg, and Freak Show.  Moved all the older versions to subfolders to reduce clutter on the main page. 
+
+UPDATE: November 7, 2019 Updated students to work with v0.45. Old versions are in the subfolders. 
