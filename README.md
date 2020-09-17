@@ -21,3 +21,7 @@ UPDATE: September 15, 2019 Added 3 new students, Suzu Fumimori, Rhonda Flagg, an
 UPDATE: November 7, 2019 Updated students to work with v0.45. Old versions are in the subfolders. 
 
 UPDATE: January 12, 2020 Updated students to work with v0.47. Moved old versions to a subfolder.
+
+UPDATE: September 17, 2020. Updated students to work with v0.61. Moved old versions to subfolder. Due to the very different settings for clothing, I may edit my girls later. Some of them appear to be borrowing some stuff from Jenny. Makes no sense as aside from Penny, none of them seem to like her. 
+
+
