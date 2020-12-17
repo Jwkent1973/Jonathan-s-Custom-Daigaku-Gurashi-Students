@@ -25,3 +25,5 @@ UPDATE: January 12, 2020 Updated students to work with v0.47. Moved old versions
 UPDATE: September 17, 2020. Updated students to work with v0.61. Moved old versions to subfolder. 
 
 UPDATE: December 12, 2020. Updated Students To Work with v0.69. Moved  old versions to a subfolder. 
+
+UPDATE: December 16, 2020. Tweaked the outfits a bit. 
