@@ -1,22 +1,23 @@
-﻿Daigaku Gurashi V0.69
+Daigaku Gurashi V0.69
+Last Modified: 12/16/2020 8:21:32 PM
 ------------------------------------------------------
 FirstName|Lioshi|
 Sex|0|
 Gender|0|
-Hair(Front)|0|
+Hair|0|
 EyeType|1|
-Hair(Ahoge)|6|
-Hair(Tails)|3|
+Ahoge|6|
+HairTails|3|
 HairPrimaryColour|18|
 HairSecondaryColour|22|
-EyeColour|5|
+EyeColour|0|
 Mouth|4|
 Skin|1|
-HeadAccessory|0|0|0|0|0|
+Headwear|0|0|0|0|0|
 Eyewear|0|
-Pantsu|40|
+Pantsu|38|
 -|-|-|-|
-Surname|Aburaya|
+Family Name|Aburaya|
 Snootiness|22|
 Gossips|-81|
 Kindness|44|
@@ -47,40 +48,40 @@ Loyal|True|
 Voice|0|
 Lingo Great|6|
 Lingo Crappy|20|
-Class1_Proficiency|21959|
-Class2_Proficiency|25940|
-Class3_Proficiency|27122|
-Class4_Proficiency|14463|
-Class5_Proficiency|18546|
-Class6_Proficiency|25004|
-Class7_Proficiency|20382|
-Class8_Proficiency|55557|
+Class_Proficiency0|21959|
+Class_Proficiency1|25940|
+Class_Proficiency2|27122|
+Class_Proficiency3|14463|
+Class_Proficiency4|18546|
+Class_Proficiency5|25004|
+Class_Proficiency6|20382|
+Class_Proficiency7|55557|
 Lingo_Laugh|10|
-Energy|1999|
-ThighHigh Base|1|16|1|
-ThighHigh Decal|20|8|1|
-Pelvis|2|
-VoicePitch|4|
-HeadAccessoryColour|6|1|1|6|1|
+Energy|1998|
+ThighHigh Base|32|32|32|
+ThighHigh Decal|4|4|4|
+LowerBodySize|2|
+Voice Pitch|4|
+HeadwearColour|6|1|1|6|1|
 OppaiSize|0|
 Lingo Very|11|
 Author|Jwkent1973|
 Description|A Slightly Nicer Gamer Girl.|
-Shirt_Colour|4|
+Shirt_Colour|28|
 Shirt_Decal|0|
-Pants_Colour|1|
+Pants_Colour|4|
 WearDress%|30|
-Dress_Colour|1|
-Dress_Decal|20|
-Hygiene|9999|
+Dress_Colour|32|
+Dress_Decal|0|
+Hygiene|9998|
 WearSchoolgirl%|40|
-Schoolgirl_Bow_Colour|27|
-Schoolgirl_Collar_Colour|27|
-Schoolgirl_Cuffs_Colour|27|
+Schoolgirl_Bow_Colour|32|
+Schoolgirl_Collar_Colour|32|
+Schoolgirl_Cuffs_Colour|32|
 Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|27|
+Schoolgirl_Skirt_Colour|32|
 Schoolgirl_Skirt_Line_Colour|1|
-EyewearColour|1|
+Eyewear_Colour|1|
 Stress%|0|
 円|50000|
 -|-|
@@ -99,7 +100,7 @@ KindGreeting|3|
 Diet|430|
 Moocher|False|
 WearModestDress%|0|
-ModestDress|1|1|1|
+ModestDress|32|1|32|
 Sadist|False|
 EasilyStressed|False|
 Unforgiving|False|

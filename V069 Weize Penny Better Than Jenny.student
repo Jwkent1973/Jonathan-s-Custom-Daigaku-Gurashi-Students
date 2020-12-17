@@ -1,4 +1,5 @@
-﻿Daigaku Gurashi V0.69
+Daigaku Gurashi V0.69
+Last Modified: 12/16/2020 8:14:19 PM
 ------------------------------------------------------
 FirstName|Penny|
 Sex|0|
@@ -7,14 +8,14 @@ Hair|1|
 EyeType|1|
 Ahoge|2|
 HairTails|1|
-HairPrimaryColour|1|
-HairSecondaryColour|9|
+HairPrimaryColour|4|
+HairSecondaryColour|18|
 EyeColour|0|
 Mouth|3|
 Skin|6|
 Headwear|0|0|0|0|0|
 Eyewear|0|
-Pantsu|4|
+Pantsu|43|
 -|-|-|-|
 Family Name|Weize|
 Snootiness|30|
@@ -56,9 +57,9 @@ Class_Proficiency5|61744|
 Class_Proficiency6|29917|
 Class_Proficiency7|66342|
 Lingo_Laugh|10|
-Energy|1999|
-ThighHigh Base|1|16|1|
-ThighHigh Decal|20|8|1|
+Energy|1998|
+ThighHigh Base|12|27|3|
+ThighHigh Decal|5|2|5|
 LowerBodySize|4|
 Voice Pitch|1|
 HeadwearColour|6|1|1|6|1|
@@ -66,19 +67,19 @@ OppaiSize|5|
 Lingo Very|6|
 Author|Jwkent1973|
 Description|A Penny Saved Is A Penny Earned.|
-Shirt_Colour|7|
+Shirt_Colour|21|
 Shirt_Decal|0|
-Pants_Colour|26|
+Pants_Colour|28|
 WearDress%|30|
-Dress_Colour|1|
-Dress_Decal|20|
-Hygiene|9999|
+Dress_Colour|28|
+Dress_Decal|0|
+Hygiene|9998|
 WearSchoolgirl%|40|
-Schoolgirl_Bow_Colour|18|
-Schoolgirl_Collar_Colour|7|
-Schoolgirl_Cuffs_Colour|7|
+Schoolgirl_Bow_Colour|27|
+Schoolgirl_Collar_Colour|27|
+Schoolgirl_Cuffs_Colour|27|
 Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|7|
+Schoolgirl_Skirt_Colour|27|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
@@ -99,7 +100,7 @@ KindGreeting|3|
 Diet|430|
 Moocher|False|
 WearModestDress%|0|
-ModestDress|1|1|1|
+ModestDress|26|1|1|
 Sadist|False|
 EasilyStressed|False|
 Unforgiving|False|

@@ -1,4 +1,5 @@
-﻿Daigaku Gurashi V0.69
+Daigaku Gurashi V0.69
+Last Modified: 12/16/2020 8:04:30 PM
 ------------------------------------------------------
 FirstName|Katsume|
 Sex|0|
@@ -14,7 +15,7 @@ Mouth|3|
 Skin|3|
 Headwear|0|0|0|0|0|
 Eyewear|1|
-Pantsu|50|
+Pantsu|34|
 -|-|-|-|
 Family Name|Setou|
 Snootiness|2|
@@ -56,9 +57,9 @@ Class_Proficiency5|37776|
 Class_Proficiency6|22016|
 Class_Proficiency7|56153|
 Lingo_Laugh|10|
-Energy|1999|
-ThighHigh Base|1|16|1|
-ThighHigh Decal|20|8|1|
+Energy|1998|
+ThighHigh Base|3|21|13|
+ThighHigh Decal|6|8|8|
 LowerBodySize|2|
 Voice Pitch|4|
 HeadwearColour|6|1|1|6|1|
@@ -66,21 +67,21 @@ OppaiSize|4|
 Lingo Very|9|
 Author|Jwkent1973|
 Description|a.k.a Kat Food.|
-Shirt_Colour|6|
+Shirt_Colour|4|
 Shirt_Decal|0|
-Pants_Colour|23|
+Pants_Colour|26|
 WearDress%|30|
-Dress_Colour|7|
-Dress_Decal|20|
-Hygiene|9999|
+Dress_Colour|26|
+Dress_Decal|0|
+Hygiene|9998|
 WearSchoolgirl%|40|
-Schoolgirl_Bow_Colour|27|
-Schoolgirl_Collar_Colour|27|
-Schoolgirl_Cuffs_Colour|27|
+Schoolgirl_Bow_Colour|32|
+Schoolgirl_Collar_Colour|32|
+Schoolgirl_Cuffs_Colour|32|
 Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|27|
+Schoolgirl_Skirt_Colour|32|
 Schoolgirl_Skirt_Line_Colour|1|
-Eyewear_Colour|20|
+Eyewear_Colour|30|
 Stress%|0|
 円|50000|
 -|-|
@@ -99,7 +100,7 @@ KindGreeting|3|
 Diet|430|
 Moocher|False|
 WearModestDress%|0|
-ModestDress|6|1|1|
+ModestDress|32|1|1|
 Sadist|False|
 EasilyStressed|False|
 Unforgiving|False|

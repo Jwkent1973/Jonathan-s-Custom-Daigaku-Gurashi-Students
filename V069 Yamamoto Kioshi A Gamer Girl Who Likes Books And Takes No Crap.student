@@ -1,4 +1,5 @@
-﻿Daigaku Gurashi V0.69
+Daigaku Gurashi V0.69
+Last Modified: 12/16/2020 7:31:39 PM
 ------------------------------------------------------
 FirstName|Kioshi|
 Sex|0|
@@ -32,7 +33,7 @@ Masochist|False|
 Pronoun|0|
 Depression|0|
 LikesSchool|-95|
-Fitness|-163|
+Fitness|-172|
 LikesManga|-21|
 LikesAnime|-16|
 LikesBooks|44|
@@ -56,9 +57,9 @@ Class_Proficiency5|30084|
 Class_Proficiency6|15048|
 Class_Proficiency7|49319|
 Lingo_Laugh|10|
-Energy|1999|
-ThighHigh Base|1|16|1|
-ThighHigh Decal|20|8|1|
+Energy|1849|
+ThighHigh Base|21|21|23|
+ThighHigh Decal|4|4|4|
 LowerBodySize|2|
 Voice Pitch|4|
 HeadwearColour|6|1|1|6|1|
@@ -66,16 +67,16 @@ OppaiSize|0|
 Lingo Very|11|
 Author|Jwkent1973|
 Description|Gamer Girl Who Takes No Crap.|
-Shirt_Colour|1|
-Shirt_Decal|15|
-Pants_Colour|23|
+Shirt_Colour|21|
+Shirt_Decal|0|
+Pants_Colour|26|
 WearDress%|30|
-Dress_Colour|1|
-Dress_Decal|20|
-Hygiene|9999|
+Dress_Colour|21|
+Dress_Decal|0|
+Hygiene|9849|
 WearSchoolgirl%|40|
 Schoolgirl_Bow_Colour|21|
-Schoolgirl_Collar_Colour|19|
+Schoolgirl_Collar_Colour|21|
 Schoolgirl_Cuffs_Colour|21|
 Schoolgirl_Shirt_Colour|1|
 Schoolgirl_Skirt_Colour|21|
@@ -99,7 +100,7 @@ KindGreeting|3|
 Diet|430|
 Moocher|False|
 WearModestDress%|0|
-ModestDress|26|1|1|
+ModestDress|21|1|1|
 Sadist|False|
 EasilyStressed|False|
 Unforgiving|True|

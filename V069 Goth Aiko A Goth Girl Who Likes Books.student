@@ -1,4 +1,5 @@
-﻿Daigaku Gurashi V0.69
+Daigaku Gurashi V0.69
+Last Modified: 12/16/2020 7:37:46 PM
 ------------------------------------------------------
 FirstName|Aiko|
 Sex|0|
@@ -56,9 +57,9 @@ Class_Proficiency5|29171|
 Class_Proficiency6|22143|
 Class_Proficiency7|64577|
 Lingo_Laugh|10|
-Energy|1999|
-ThighHigh Base|1|16|1|
-ThighHigh Decal|20|8|1|
+Energy|1998|
+ThighHigh Base|4|4|4|
+ThighHigh Decal|14|14|14|
 LowerBodySize|4|
 Voice Pitch|0|
 HeadwearColour|6|1|1|6|1|
@@ -71,10 +72,10 @@ Shirt_Decal|0|
 Pants_Colour|4|
 WearDress%|30|
 Dress_Colour|4|
-Dress_Decal|20|
-Hygiene|9999|
+Dress_Decal|2|
+Hygiene|9998|
 WearSchoolgirl%|40|
-Schoolgirl_Bow_Colour|3|
+Schoolgirl_Bow_Colour|4|
 Schoolgirl_Collar_Colour|4|
 Schoolgirl_Cuffs_Colour|4|
 Schoolgirl_Shirt_Colour|4|
@@ -99,7 +100,7 @@ KindGreeting|3|
 Diet|430|
 Moocher|False|
 WearModestDress%|0|
-ModestDress|4|1|1|
+ModestDress|4|1|4|
 Sadist|False|
 EasilyStressed|False|
 Unforgiving|False|

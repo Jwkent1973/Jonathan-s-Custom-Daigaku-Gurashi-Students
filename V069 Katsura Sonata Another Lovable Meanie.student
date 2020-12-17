@@ -1,22 +1,23 @@
-﻿Daigaku Gurashi V0.69
+Daigaku Gurashi V0.69
+Last Modified: 12/16/2020 7:48:03 PM
 ------------------------------------------------------
 FirstName|Sonata|
 Sex|0|
 Gender|0|
-Hair(Front)|0|
+Hair|0|
 EyeType|1|
-Hair(Ahoge)|0|
-Hair(Tails)|4|
+Ahoge|0|
+HairTails|4|
 HairPrimaryColour|27|
-HairSecondaryColour|6|
-EyeColour|5|
+HairSecondaryColour|9|
+EyeColour|0|
 Mouth|3|
 Skin|1|
-HeadAccessory|0|0|0|0|0|
+Headwear|0|0|0|0|0|
 Eyewear|0|
-Pantsu|57|
+Pantsu|47|
 -|-|-|-|
-Surname|Katsura|
+Family Name|Katsura|
 Snootiness|64|
 Gossips|-72|
 Kindness|-58|
@@ -47,32 +48,32 @@ Loyal|False|
 Voice|0|
 Lingo Great|6|
 Lingo Crappy|20|
-Class1_Proficiency|29722|
-Class2_Proficiency|60874|
-Class3_Proficiency|29895|
-Class4_Proficiency|29084|
-Class5_Proficiency|39342|
-Class6_Proficiency|31931|
-Class7_Proficiency|36274|
-Class8_Proficiency|49826|
+Class_Proficiency0|29722|
+Class_Proficiency1|60874|
+Class_Proficiency2|29895|
+Class_Proficiency3|29084|
+Class_Proficiency4|39342|
+Class_Proficiency5|31931|
+Class_Proficiency6|36274|
+Class_Proficiency7|49826|
 Lingo_Laugh|10|
-Energy|2000|
-ThighHigh Base|1|16|1|
-ThighHigh Decal|20|8|1|
-Pelvis|2|
-VoicePitch|4|
-HeadAccessoryColour|6|1|1|6|1|
+Energy|1999|
+ThighHigh Base|28|23|27|
+ThighHigh Decal|7|10|6|
+LowerBodySize|2|
+Voice Pitch|4|
+HeadwearColour|6|1|1|6|1|
 OppaiSize|0|
 Lingo Very|11|
 Author|Jwkent1973|
 Description|Another Sweet Violent Girl.|
-Shirt_Colour|1|
-Shirt_Decal|15|
-Pants_Colour|23|
+Shirt_Colour|27|
+Shirt_Decal|0|
+Pants_Colour|4|
 WearDress%|30|
-Dress_Colour|1|
-Dress_Decal|20|
-Hygiene|10000|
+Dress_Colour|27|
+Dress_Decal|6|
+Hygiene|9999|
 WearSchoolgirl%|40|
 Schoolgirl_Bow_Colour|27|
 Schoolgirl_Collar_Colour|27|
@@ -80,7 +81,7 @@ Schoolgirl_Cuffs_Colour|27|
 Schoolgirl_Shirt_Colour|1|
 Schoolgirl_Skirt_Colour|27|
 Schoolgirl_Skirt_Line_Colour|1|
-EyewearColour|1|
+Eyewear_Colour|1|
 Stress%|0|
 円|50000|
 -|-|
@@ -99,7 +100,7 @@ KindGreeting|3|
 Diet|430|
 Moocher|False|
 WearModestDress%|0|
-ModestDress|1|1|1|
+ModestDress|26|1|27|
 Sadist|False|
 EasilyStressed|False|
 Unforgiving|True|

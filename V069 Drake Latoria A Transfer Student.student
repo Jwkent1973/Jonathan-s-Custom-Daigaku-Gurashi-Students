@@ -1,4 +1,5 @@
-﻿Daigaku Gurashi V0.69
+Daigaku Gurashi V0.69
+Last Modified: 12/16/2020 8:36:04 PM
 ------------------------------------------------------
 FirstName|Latoria|
 Sex|0|
@@ -56,9 +57,9 @@ Class_Proficiency5|56304|
 Class_Proficiency6|16524|
 Class_Proficiency7|69224|
 Lingo_Laugh|10|
-Energy|1999|
-ThighHigh Base|1|16|1|
-ThighHigh Decal|20|8|1|
+Energy|1998|
+ThighHigh Base|4|8|1|
+ThighHigh Decal|5|8|1|
 LowerBodySize|1|
 Voice Pitch|3|
 HeadwearColour|6|1|1|6|1|
@@ -66,19 +67,19 @@ OppaiSize|1|
 Lingo Very|16|
 Author|Jwkent1973|
 Description|A Transfer Student.|
-Shirt_Colour|1|
-Shirt_Decal|5|
+Shirt_Colour|32|
+Shirt_Decal|0|
 Pants_Colour|4|
 WearDress%|30|
-Dress_Colour|1|
-Dress_Decal|20|
-Hygiene|9999|
+Dress_Colour|9|
+Dress_Decal|0|
+Hygiene|9998|
 WearSchoolgirl%|40|
-Schoolgirl_Bow_Colour|21|
-Schoolgirl_Collar_Colour|21|
-Schoolgirl_Cuffs_Colour|21|
+Schoolgirl_Bow_Colour|8|
+Schoolgirl_Collar_Colour|8|
+Schoolgirl_Cuffs_Colour|8|
 Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|21|
+Schoolgirl_Skirt_Colour|8|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
@@ -99,7 +100,7 @@ KindGreeting|3|
 Diet|430|
 Moocher|False|
 WearModestDress%|0|
-ModestDress|21|1|1|
+ModestDress|9|1|1|
 Sadist|False|
 EasilyStressed|False|
 Unforgiving|False|
